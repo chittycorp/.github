@@ -1,0 +1,6 @@
+# Funding links for ChittyCorp
+# These links appear in the "Sponsor" button across all ChittyCorp repositories
+
+# github: [chittycorp]  # Uncomment when GitHub Sponsors is set up
+# patreon: chittycorp    # Uncomment if we set up Patreon
+custom: ["https://chittycorp.com/support", "mailto:licensing@chitty.cc"]

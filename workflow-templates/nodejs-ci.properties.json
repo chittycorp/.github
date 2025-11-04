@@ -1,0 +1,7 @@
+{
+  "name": "Node.js CI Workflow",
+  "description": "Standard ChittyCorp CI workflow for Node.js/TypeScript projects",
+  "iconName": "nodejs",
+  "categories": ["JavaScript", "TypeScript", "CI"],
+  "filePatterns": ["package.json", "tsconfig.json"]
+}
